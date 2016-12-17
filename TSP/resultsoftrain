@@ -1,0 +1,10399 @@
+{
+   "destination_addresses" : [ "Itanagar" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Patna, Bihar, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Panjim, Goa, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chandigarh, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "hyderabad, Ambavaram, Andhra Pradesh 523112, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Patna, Bihar, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Panjim, Goa, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chandigarh, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Itanagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Patna, Bihar, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Panjim, Goa, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chandigarh, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Dispur, Guwahati, Assam, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "669 mi",
+                  "value" : 1076681
+               },
+               "duration" : {
+                  "text" : "18 hours 10 mins",
+                  "value" : 65400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Panjim, Goa, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,365 mi",
+                  "value" : 2197378
+               },
+               "duration" : {
+                  "text" : "1 day 19 hours",
+                  "value" : 155314
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,125 mi",
+                  "value" : 1809923
+               },
+               "duration" : {
+                  "text" : "1 day 6 hours",
+                  "value" : 106200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chandigarh, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "771 mi",
+                  "value" : 1240189
+               },
+               "duration" : {
+                  "text" : "21 hours 40 mins",
+                  "value" : 78000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "845 mi",
+                  "value" : 1360192
+               },
+               "duration" : {
+                  "text" : "1 day 5 hours",
+                  "value" : 102600
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "256 mi",
+                  "value" : 411899
+               },
+               "duration" : {
+                  "text" : "7 hours 55 mins",
+                  "value" : 28500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,779 mi",
+                  "value" : 2862956
+               },
+               "duration" : {
+                  "text" : "1 day 17 hours",
+                  "value" : 146700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,052 mi",
+                  "value" : 3302387
+               },
+               "duration" : {
+                  "text" : "2 days 3 hours",
+                  "value" : 183300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "666 mi",
+                  "value" : 1071665
+               },
+               "duration" : {
+                  "text" : "19 hours 11 mins",
+                  "value" : 69060
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,067 mi",
+                  "value" : 1717157
+               },
+               "duration" : {
+                  "text" : "1 day 6 hours",
+                  "value" : 107280
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "794 mi",
+                  "value" : 1278246
+               },
+               "duration" : {
+                  "text" : "14 hours 50 mins",
+                  "value" : 53400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "656 mi",
+                  "value" : 1056121
+               },
+               "duration" : {
+                  "text" : "17 hours 30 mins",
+                  "value" : 63000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,556 mi",
+                  "value" : 2504085
+               },
+               "duration" : {
+                  "text" : "1 day 11 hours",
+                  "value" : 126900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "906 mi",
+                  "value" : 1458307
+               },
+               "duration" : {
+                  "text" : "1 day 19 hours",
+                  "value" : 154800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "330 mi",
+                  "value" : 531274
+               },
+               "duration" : {
+                  "text" : "10 hours 35 mins",
+                  "value" : 38100
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "657 mi",
+                  "value" : 1058137
+               },
+               "duration" : {
+                  "text" : "22 hours 50 mins",
+                  "value" : 82200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "525 mi",
+                  "value" : 845075
+               },
+               "duration" : {
+                  "text" : "8 hours 22 mins",
+                  "value" : 30114
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "632 mi",
+                  "value" : 1016923
+               },
+               "duration" : {
+                  "text" : "17 hours 40 mins",
+                  "value" : 63593
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Patna, Bihar, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Panjim, Goa, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,043 mi",
+                  "value" : 1677886
+               },
+               "duration" : {
+                  "text" : "1 day 6 hours",
+                  "value" : 109054
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "804 mi",
+                  "value" : 1293212
+               },
+               "duration" : {
+                  "text" : "1 day 0 hours",
+                  "value" : 87000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chandigarh, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,020 mi",
+                  "value" : 1641190
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 90600
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,094 mi",
+                  "value" : 1761331
+               },
+               "duration" : {
+                  "text" : "1 day 8 hours",
+                  "value" : 113700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "462 mi",
+                  "value" : 742895
+               },
+               "duration" : {
+                  "text" : "13 hours 25 mins",
+                  "value" : 48300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,089 mi",
+                  "value" : 1752436
+               },
+               "duration" : {
+                  "text" : "1 day 4 hours",
+                  "value" : 100800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,390 mi",
+                  "value" : 2237204
+               },
+               "duration" : {
+                  "text" : "1 day 16 hours",
+                  "value" : 143400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "431 mi",
+                  "value" : 693203
+               },
+               "duration" : {
+                  "text" : "12 hours 0 mins",
+                  "value" : 43200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "701 mi",
+                  "value" : 1128348
+               },
+               "duration" : {
+                  "text" : "18 hours 52 mins",
+                  "value" : 67920
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "443 mi",
+                  "value" : 712489
+               },
+               "duration" : {
+                  "text" : "13 hours 35 mins",
+                  "value" : 48900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "869 mi",
+                  "value" : 1397823
+               },
+               "duration" : {
+                  "text" : "23 hours 50 mins",
+                  "value" : 85800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "866 mi",
+                  "value" : 1393388
+               },
+               "duration" : {
+                  "text" : "22 hours 0 mins",
+                  "value" : 79200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,488 mi",
+                  "value" : 2393978
+               },
+               "duration" : {
+                  "text" : "3 days 1 hour",
+                  "value" : 262800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "567 mi",
+                  "value" : 912177
+               },
+               "duration" : {
+                  "text" : "16 hours 45 mins",
+                  "value" : 60300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,063 mi",
+                  "value" : 1710266
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 96300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "519 mi",
+                  "value" : 834562
+               },
+               "duration" : {
+                  "text" : "13 hours 7 mins",
+                  "value" : 47214
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "879 mi",
+                  "value" : 1413846
+               },
+               "duration" : {
+                  "text" : "23 hours 3 mins",
+                  "value" : 83003
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Raipur, Chhattisgarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "665 mi",
+                  "value" : 1070581
+               },
+               "duration" : {
+                  "text" : "21 hours 31 mins",
+                  "value" : 77479
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chandigarh, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,328 mi",
+                  "value" : 2137420
+               },
+               "duration" : {
+                  "text" : "1 day 11 hours",
+                  "value" : 126379
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,474 mi",
+                  "value" : 2372945
+               },
+               "duration" : {
+                  "text" : "1 day 23 hours",
+                  "value" : 169579
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "672 mi",
+                  "value" : 1080955
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 88879
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "328 mi",
+                  "value" : 527695
+               },
+               "duration" : {
+                  "text" : "11 hours 22 mins",
+                  "value" : 40939
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,431 mi",
+                  "value" : 2303592
+               },
+               "duration" : {
+                  "text" : "1 day 22 hours",
+                  "value" : 164179
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,036 mi",
+                  "value" : 1667629
+               },
+               "duration" : {
+                  "text" : "1 day 4 hours",
+                  "value" : 100279
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "785 mi",
+                  "value" : 1263178
+               },
+               "duration" : {
+                  "text" : "1 day 2 hours",
+                  "value" : 93379
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,317 mi",
+                  "value" : 3729618
+               },
+               "duration" : {
+                  "text" : "3 days 8 hours",
+                  "value" : 289579
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,360 mi",
+                  "value" : 2189073
+               },
+               "duration" : {
+                  "text" : "1 day 13 hours",
+                  "value" : 133879
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,531 mi",
+                  "value" : 2464170
+               },
+               "duration" : {
+                  "text" : "1 day 21 hours",
+                  "value" : 161493
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,187 mi",
+                  "value" : 1910078
+               },
+               "duration" : {
+                  "text" : "1 day 7 hours",
+                  "value" : 113022
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Panjim, Goa, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chandigarh, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "877 mi",
+                  "value" : 1411982
+               },
+               "duration" : {
+                  "text" : "1 day 2 hours",
+                  "value" : 93300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "819 mi",
+                  "value" : 1317965
+               },
+               "duration" : {
+                  "text" : "1 day 2 hours",
+                  "value" : 93420
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,336 mi",
+                  "value" : 2149719
+               },
+               "duration" : {
+                  "text" : "1 day 18 hours",
+                  "value" : 150180
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "989 mi",
+                  "value" : 1592321
+               },
+               "duration" : {
+                  "text" : "1 day 10 hours",
+                  "value" : 121260
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,266 mi",
+                  "value" : 2037510
+               },
+               "duration" : {
+                  "text" : "1 day 21 hours",
+                  "value" : 162900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "505 mi",
+                  "value" : 813517
+               },
+               "duration" : {
+                  "text" : "18 hours 38 mins",
+                  "value" : 67080
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "321 mi",
+                  "value" : 515926
+               },
+               "duration" : {
+                  "text" : "9 hours 15 mins",
+                  "value" : 33300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,225 mi",
+                  "value" : 1970909
+               },
+               "duration" : {
+                  "text" : "1 day 14 hours",
+                  "value" : 138300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "410 mi",
+                  "value" : 660549
+               },
+               "duration" : {
+                  "text" : "14 hours 35 mins",
+                  "value" : 52500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,088 mi",
+                  "value" : 1750390
+               },
+               "duration" : {
+                  "text" : "1 day 12 hours",
+                  "value" : 129000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "902 mi",
+                  "value" : 1451282
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 96900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "770 mi",
+                  "value" : 1238455
+               },
+               "duration" : {
+                  "text" : "1 day 2 hours",
+                  "value" : 92880
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,401 mi",
+                  "value" : 2254101
+               },
+               "duration" : {
+                  "text" : "1 day 18 hours",
+                  "value" : 152280
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "590 mi",
+                  "value" : 949208
+               },
+               "duration" : {
+                  "text" : "20 hours 20 mins",
+                  "value" : 73209
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Gandhinagar, Gujarat, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "74.7 mi",
+                  "value" : 120161
+               },
+               "duration" : {
+                  "text" : "5 hours 45 mins",
+                  "value" : 20700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "964 mi",
+                  "value" : 1551484
+               },
+               "duration" : {
+                  "text" : "21 hours 0 mins",
+                  "value" : 75600
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,692 mi",
+                  "value" : 2723150
+               },
+               "duration" : {
+                  "text" : "1 day 19 hours",
+                  "value" : 154200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,042 mi",
+                  "value" : 3286661
+               },
+               "duration" : {
+                  "text" : "2 days 6 hours",
+                  "value" : 193200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "592 mi",
+                  "value" : 953030
+               },
+               "duration" : {
+                  "text" : "14 hours 47 mins",
+                  "value" : 53220
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,035 mi",
+                  "value" : 1665189
+               },
+               "duration" : {
+                  "text" : "23 hours 2 mins",
+                  "value" : 82920
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,225 mi",
+                  "value" : 1971569
+               },
+               "duration" : {
+                  "text" : "1 day 4 hours",
+                  "value" : 100200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "345 mi",
+                  "value" : 555332
+               },
+               "duration" : {
+                  "text" : "10 hours 27 mins",
+                  "value" : 37620
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,512 mi",
+                  "value" : 2433785
+               },
+               "duration" : {
+                  "text" : "1 day 11 hours",
+                  "value" : 127200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "470 mi",
+                  "value" : 756629
+               },
+               "duration" : {
+                  "text" : "11 hours 40 mins",
+                  "value" : 42000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "158 mi",
+                  "value" : 254138
+               },
+               "duration" : {
+                  "text" : "4 hours 50 mins",
+                  "value" : 17400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,058 mi",
+                  "value" : 1702597
+               },
+               "duration" : {
+                  "text" : "22 hours 10 mins",
+                  "value" : 79800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "162 mi",
+                  "value" : 261367
+               },
+               "duration" : {
+                  "text" : "5 hours 7 mins",
+                  "value" : 18407
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Chandigarh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Srinagar" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,810 mi",
+                  "value" : 2912954
+               },
+               "duration" : {
+                  "text" : "2 days 3 hours",
+                  "value" : 182700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,111 mi",
+                  "value" : 3397333
+               },
+               "duration" : {
+                  "text" : "2 days 17 hours",
+                  "value" : 233700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "667 mi",
+                  "value" : 1073040
+               },
+               "duration" : {
+                  "text" : "21 hours 25 mins",
+                  "value" : 77100
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,110 mi",
+                  "value" : 1785612
+               },
+               "duration" : {
+                  "text" : "1 day 11 hours",
+                  "value" : 125340
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "420 mi",
+                  "value" : 675440
+               },
+               "duration" : {
+                  "text" : "17 hours 45 mins",
+                  "value" : 63900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,587 mi",
+                  "value" : 2553906
+               },
+               "duration" : {
+                  "text" : "1 day 21 hours",
+                  "value" : 161100
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "531 mi",
+                  "value" : 854787
+               },
+               "duration" : {
+                  "text" : "20 hours 20 mins",
+                  "value" : 73200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "235 mi",
+                  "value" : 377731
+               },
+               "duration" : {
+                  "text" : "17 hours 55 mins",
+                  "value" : 64500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "232 mi",
+                  "value" : 373521
+               },
+               "duration" : {
+                  "text" : "12 hours 48 mins",
+                  "value" : 46073
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Shimla, Himachal Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Srinagar" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,328 mi",
+                  "value" : 2137136
+               },
+               "duration" : {
+                  "text" : "1 day 15 hours",
+                  "value" : 140400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,677 mi",
+                  "value" : 2698611
+               },
+               "duration" : {
+                  "text" : "2 days 1 hour",
+                  "value" : 176400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "739 mi",
+                  "value" : 1189199
+               },
+               "duration" : {
+                  "text" : "1 day 2 hours",
+                  "value" : 92400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,249 mi",
+                  "value" : 2010440
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 89400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "386 mi",
+                  "value" : 621762
+               },
+               "duration" : {
+                  "text" : "10 hours 50 mins",
+                  "value" : 39000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "902 mi",
+                  "value" : 1450905
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 96900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,148 mi",
+                  "value" : 1848033
+               },
+               "duration" : {
+                  "text" : "1 day 10 hours",
+                  "value" : 120600
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "584 mi",
+                  "value" : 939144
+               },
+               "duration" : {
+                  "text" : "17 hours 50 mins",
+                  "value" : 64200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,036 mi",
+                  "value" : 1667622
+               },
+               "duration" : {
+                  "text" : "1 day 4 hours",
+                  "value" : 99900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "396 mi",
+                  "value" : 637768
+               },
+               "duration" : {
+                  "text" : "9 hours 5 mins",
+                  "value" : 32700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "823 mi",
+                  "value" : 1324468
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 88629
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Ranchi, Jharkhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "492 mi",
+                  "value" : 792078
+               },
+               "duration" : {
+                  "text" : "14 hours 40 mins",
+                  "value" : 52800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,105 mi",
+                  "value" : 1778555
+               },
+               "duration" : {
+                  "text" : "1 day 6 hours",
+                  "value" : 106200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "712 mi",
+                  "value" : 1145525
+               },
+               "duration" : {
+                  "text" : "23 hours 15 mins",
+                  "value" : 83700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "946 mi",
+                  "value" : 1522557
+               },
+               "duration" : {
+                  "text" : "22 hours 20 mins",
+                  "value" : 80400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,380 mi",
+                  "value" : 2221183
+               },
+               "duration" : {
+                  "text" : "1 day 20 hours",
+                  "value" : 159300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "223 mi",
+                  "value" : 358607
+               },
+               "duration" : {
+                  "text" : "5 hours 0 mins",
+                  "value" : 18000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,189 mi",
+                  "value" : 3523613
+               },
+               "duration" : {
+                  "text" : "3 days 1 hour",
+                  "value" : 264300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,469 mi",
+                  "value" : 2363493
+               },
+               "duration" : {
+                  "text" : "1 day 18 hours",
+                  "value" : 151800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,671 mi",
+                  "value" : 2688728
+               },
+               "duration" : {
+                  "text" : "1 day 17 hours",
+                  "value" : 146400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,220 mi",
+                  "value" : 1964063
+               },
+               "duration" : {
+                  "text" : "1 day 6 hours",
+                  "value" : 106314
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,553 mi",
+                  "value" : 2500115
+               },
+               "duration" : {
+                  "text" : "1 day 20 hours",
+                  "value" : 158229
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Bengaluru, Karnataka, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,486 mi",
+                  "value" : 2391322
+               },
+               "duration" : {
+                  "text" : "1 day 18 hours",
+                  "value" : 151500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "930 mi",
+                  "value" : 1496584
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 98580
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,327 mi",
+                  "value" : 2135800
+               },
+               "duration" : {
+                  "text" : "1 day 15 hours",
+                  "value" : 138600
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,663 mi",
+                  "value" : 2675728
+               },
+               "duration" : {
+                  "text" : "1 day 22 hours",
+                  "value" : 163800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "566 mi",
+                  "value" : 910895
+               },
+               "duration" : {
+                  "text" : "16 hours 15 mins",
+                  "value" : 58500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,535 mi",
+                  "value" : 4079713
+               },
+               "duration" : {
+                  "text" : "3 days 14 hours",
+                  "value" : 308700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,850 mi",
+                  "value" : 2977529
+               },
+               "duration" : {
+                  "text" : "2 days 4 hours",
+                  "value" : 186300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,110 mi",
+                  "value" : 3395389
+               },
+               "duration" : {
+                  "text" : "2 days 6 hours",
+                  "value" : 192600
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,601 mi",
+                  "value" : 2577083
+               },
+               "duration" : {
+                  "text" : "1 day 23 hours",
+                  "value" : 169860
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,781 mi",
+                  "value" : 2866293
+               },
+               "duration" : {
+                  "text" : "2 days 0 hours",
+                  "value" : 171347
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Thiruvananthapuram, Kerala, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "518 mi",
+                  "value" : 833366
+               },
+               "duration" : {
+                  "text" : "13 hours 36 mins",
+                  "value" : 48960
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "851 mi",
+                  "value" : 1369337
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 89700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "438 mi",
+                  "value" : 705394
+               },
+               "duration" : {
+                  "text" : "15 hours 35 mins",
+                  "value" : 56100
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "921 mi",
+                  "value" : 1481437
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 89700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,621 mi",
+                  "value" : 2608059
+               },
+               "duration" : {
+                  "text" : "3 days 8 hours",
+                  "value" : 288300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "363 mi",
+                  "value" : 584699
+               },
+               "duration" : {
+                  "text" : "10 hours 20 mins",
+                  "value" : 37200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "629 mi",
+                  "value" : 1012959
+               },
+               "duration" : {
+                  "text" : "20 hours 5 mins",
+                  "value" : 72300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "948 mi",
+                  "value" : 1525692
+               },
+               "duration" : {
+                  "text" : "1 day 0 hours",
+                  "value" : 87014
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "449 mi",
+                  "value" : 723163
+               },
+               "duration" : {
+                  "text" : "11 hours 58 mins",
+                  "value" : 43089
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Bhopal, Madhya Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Imphal, Manipur, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,097 mi",
+                  "value" : 1765007
+               },
+               "duration" : {
+                  "text" : "1 day 5 hours",
+                  "value" : 103500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "740 mi",
+                  "value" : 1190442
+               },
+               "duration" : {
+                  "text" : "18 hours 55 mins",
+                  "value" : 68100
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "903 mi",
+                  "value" : 1453473
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 96300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,971 mi",
+                  "value" : 3172254
+               },
+               "duration" : {
+                  "text" : "2 days 21 hours",
+                  "value" : 247500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "879 mi",
+                  "value" : 1415219
+               },
+               "duration" : {
+                  "text" : "1 day 1 hour",
+                  "value" : 90300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,155 mi",
+                  "value" : 1859445
+               },
+               "duration" : {
+                  "text" : "1 day 4 hours",
+                  "value" : 102000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,218 mi",
+                  "value" : 1960969
+               },
+               "duration" : {
+                  "text" : "1 day 6 hours",
+                  "value" : 108340
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "890 mi",
+                  "value" : 1433113
+               },
+               "duration" : {
+                  "text" : "23 hours 17 mins",
+                  "value" : 83829
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Mumbai, Maharashtra, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Shillong, Meghalaya, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Imphal, Manipur, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Aizawl, Mizoram, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Shillong, Meghalaya, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kohima, Nagaland, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Aizawl, Mizoram, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Kohima, Nagaland, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,209 mi",
+                  "value" : 1945456
+               },
+               "duration" : {
+                  "text" : "1 day 7 hours",
+                  "value" : 112800
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "762 mi",
+                  "value" : 1226360
+               },
+               "duration" : {
+                  "text" : "21 hours 30 mins",
+                  "value" : 77400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "945 mi",
+                  "value" : 1520525
+               },
+               "duration" : {
+                  "text" : "22 hours 5 mins",
+                  "value" : 79500
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,368 mi",
+                  "value" : 2202319
+               },
+               "duration" : {
+                  "text" : "1 day 8 hours",
+                  "value" : 114900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "272 mi",
+                  "value" : 438245
+               },
+               "duration" : {
+                  "text" : "7 hours 2 mins",
+                  "value" : 25322
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,186 mi",
+                  "value" : 1907924
+               },
+               "duration" : {
+                  "text" : "1 day 4 hours",
+                  "value" : 99654
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Bhubaneswar, Odisha, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Gangtok, Sikkim, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,443 mi",
+                  "value" : 2323078
+               },
+               "duration" : {
+                  "text" : "1 day 10 hours",
+                  "value" : 123600
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "427 mi",
+                  "value" : 687897
+               },
+               "duration" : {
+                  "text" : "11 hours 30 mins",
+                  "value" : 41400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "384 mi",
+                  "value" : 618410
+               },
+               "duration" : {
+                  "text" : "15 hours 0 mins",
+                  "value" : 54000
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,006 mi",
+                  "value" : 1618750
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 97100
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "197 mi",
+                  "value" : 316896
+               },
+               "duration" : {
+                  "text" : "7 hours 27 mins",
+                  "value" : 26802
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Jaipur, Rajasthan, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "origin_addresses" : [ "Gangtok, Sikkim, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Gangtok, Sikkim, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Gangtok, Sikkim, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Gangtok, Sikkim, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Gangtok, Sikkim, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Gangtok, Sikkim, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Gangtok, Sikkim, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Gangtok, Sikkim, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Agartala, Tripura, India" ],
+   "origin_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "2,005 mi",
+                  "value" : 3227476
+               },
+               "duration" : {
+                  "text" : "2 days 21 hours",
+                  "value" : 249300
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,284 mi",
+                  "value" : 2066564
+               },
+               "duration" : {
+                  "text" : "1 day 5 hours",
+                  "value" : 105900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,542 mi",
+                  "value" : 2481979
+               },
+               "duration" : {
+                  "text" : "1 day 15 hours",
+                  "value" : 138600
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,035 mi",
+                  "value" : 1664871
+               },
+               "duration" : {
+                  "text" : "1 day 4 hours",
+                  "value" : 100322
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,370 mi",
+                  "value" : 2205075
+               },
+               "duration" : {
+                  "text" : "1 day 6 hours",
+                  "value" : 107748
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Chennai, Tamil Nadu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "origin_addresses" : [ "Agartala, Tripura, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,220 mi",
+                  "value" : 1963369
+               },
+               "duration" : {
+                  "text" : "1 day 22 hours",
+                  "value" : 165900
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Agartala, Tripura, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,559 mi",
+                  "value" : 2508799
+               },
+               "duration" : {
+                  "text" : "2 days 12 hours",
+                  "value" : 217200
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Agartala, Tripura, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "968 mi",
+                  "value" : 1557783
+               },
+               "duration" : {
+                  "text" : "1 day 14 hours",
+                  "value" : 137400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Agartala, Tripura, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Agartala, Tripura, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,562 mi",
+                  "value" : 2513088
+               },
+               "duration" : {
+                  "text" : "2 days 5 hours",
+                  "value" : 189083
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Agartala, Tripura, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "origin_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "339 mi",
+                  "value" : 545376
+               },
+               "duration" : {
+                  "text" : "12 hours 20 mins",
+                  "value" : 44400
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "691 mi",
+                  "value" : 1111774
+               },
+               "duration" : {
+                  "text" : "19 hours 55 mins",
+                  "value" : 71700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "327 mi",
+                  "value" : 525770
+               },
+               "duration" : {
+                  "text" : "8 hours 52 mins",
+                  "value" : 31914
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Lucknow, Uttar Pradesh, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Kolkata, West Bengal, India" ],
+   "origin_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "1,071 mi",
+                  "value" : 1723611
+               },
+               "duration" : {
+                  "text" : "1 day 3 hours",
+                  "value" : 98700
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "198 mi",
+                  "value" : 318218
+               },
+               "duration" : {
+                  "text" : "7 hours 57 mins",
+                  "value" : 28614
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Dehradun, Uttarakhand, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Daman and Diu, India" ],
+   "origin_addresses" : [ "Kolkata, West Bengal, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Kolkata, West Bengal, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "distance" : {
+                  "text" : "916 mi",
+                  "value" : 1474142
+               },
+               "duration" : {
+                  "text" : "20 hours 12 mins",
+                  "value" : 72691
+               },
+               "status" : "OK"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Kolkata, West Bengal, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Delhi, India" ],
+   "origin_addresses" : [ "Daman and Diu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Daman and Diu, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+
+{
+   "destination_addresses" : [ "Puducherry, India" ],
+   "origin_addresses" : [ "Delhi, India" ],
+   "rows" : [
+      {
+         "elements" : [
+            {
+               "status" : "ZERO_RESULTS"
+            }
+         ]
+      }
+   ],
+   "status" : "OK"
+}
+
+
+
+
+
+
+

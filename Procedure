@@ -1,0 +1,55 @@
+python India.py
+	input
+		capitals' name
+	output
+		"results" file containing JSON objects each providing distance between two places and time required to travel the distance
+		
+
+python India_train.py
+	input
+		capitals' name
+	output
+		"resultsoftrain" file containing JSON objects each providing distance between two places and time required to travel the distance via Railway
+
+
+python distanceVStime.py
+	input
+		"results" file
+	output
+		"resultsDistTime" file contains sorted Distances along with individually sorted time and corresponding indices to prove that distance and time are not
+		always related
+
+
+python distanceVStime_train.py
+	input
+		"resultsoftrain" file
+	output
+		"resultsDistTimeTrain" file contains sorted Distances along with individually sorted time and corresponding indices for railways to prove that distance and time are
+		 not always related
+		
+		
+python parsing.py
+	input
+		"results"
+	output
+		"resultsFinal" contains the data of all possible combinations of cities.
+
+
+python parsing_train.py
+	input
+		"resultsoftrain"
+	output
+		"resultsFinalTrain" contains the data of all possible combinations of cities for railways.
+
+
+python matrix.py
+	input
+		User input. City names are case sensitive. Kindly refer the following names;
+		
+			"Hyderabad","Itanagar","Dispur","Patna","Raipur","Panaji","Gandhinagar","Chandigarh","Shimla","Srinagar","Ranchi","Bangalore",
+			"Thiruvananthapuram","Bhopal","Mumbai","Imphal","Shillong","Aizawl","Kohima","Bhubaneshwar","Jaipur","Gangtok","Chennai",
+			"Agartala","Lucknow","Dehradun","Kolkata","Daman and Diu","Delhi","Pondicherry"
+			
+	output
+		Main output file which provides output on the terminal in the form of shortest route to traverse through all the cities, along with the time taken to
+		travel to each city, preferrable number of days to stay at a city, and the preferred mode of transport. It also outputs a webpage showing the route.
