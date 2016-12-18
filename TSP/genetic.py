@@ -107,7 +107,7 @@ gg = perms[minimum][:]
 gg.insert(0,14)
 
 
-print gg,min_time[minimum]
+print gg,str(min_time[minimum]) + ' millisec = ' + str(round(min_time[minimum]/3600.0,2)) + ' hours'
 print capital[a],
 for i in perms[minimum]:
 	print capital[i],
@@ -177,7 +177,7 @@ for k in lister:
 	small_list.append(smaller)
 
 
-print  lister[small_list.index(min(small_list))],min(small_list)
+print  lister[small_list.index(min(small_list))],str(min(small_list)) + ' millisec = ' + str(round(min(small_list)/3600.0,2)) + ' hours'
 for i in lister[small_list.index(min(small_list))]:
 	print capital[i],
 print capital[a]
@@ -308,7 +308,7 @@ print min(small_list1)
 
 
 
-print lister1[small_list1.index(min(small_list1))],summed(lister1[small_list1.index(min(small_list1))])
+print lister1[small_list1.index(min(small_list1))],str(summed(lister1[small_list1.index(min(small_list1))])) + ' millisec = ' + str(round(summed(lister1[small_list1.index(min(small_list1))])/3600.0,2)) + ' hours'  
 
 for i in lister1[small_list1.index(min(small_list1))]:
 	print capital[i],
