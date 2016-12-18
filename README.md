@@ -6,7 +6,7 @@
 	
 3)It accepts the total number of days the user wants to spend throughout the journey.
 	
-4)Based on this data, the program output the shortest path to travel these cities using the apt mode of transport(bus or train) whichever requires lesser time of the two modes. Based on the number of days available with the user and the amount of time spent in travelling for the rest of the journey, it outputs the number of days viable to stay at a particular city.
+4)Based on this data, the program outputs the shortest path to travel these cities using the apt mode of transport(bus or train) whichever requires lesser time of the two modes. Based on the number of days available with the user and the amount of time spent in travelling for the rest of the journey, it outputs the number of days viable to stay at a particular city.
         
 5)It outputs a map in the browser which gives an idea of how the route will look like approximately. "Approximately" because Google Maps API doesn't allow to plot the roadways and railway paths on the same map. Hence only the roadways are plotted even where actually a railway path would be used. The map merely gives the user an idea of how the whole travel plan might be like. 
 
