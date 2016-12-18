@@ -1,16 +1,26 @@
+**->What the existing code does is:**
+	-> It accepts the origin city. This city is where the travelling must start and end.
+	-> It later accepts multiple other cities which have to be covered in the journey.
+	-> It accepts the total number of days the user wants to spend throughout the journey.
+	-> Based on this data, the program output the shortest path to travel these cities using the apt mode of transport(bus or train) whichever requires lesser
+	   time of the two modes. Based on the number of days available with the user and the amount of time spent in travelling for the rest of the journey, it
+	   outputs the number of days viable to stay at a particular city.
+    -> It outputs a map in the browser which gives an idea of how the route will look like approximately. "Approximately" because Google Maps API doesn't allow
+       to plot the roadways and railway paths on the same map. Hence only the roadways are plotted even where actually a railway path would be used. The map
+       merely gives the user an idea of how the whole travel plan might be like. 
 
-***RECOMMENDED*** -> Directly run "python matrix.py" to start directly with the stored data in the files "results" and "resultsoftrain"
 
-		INPUT THE CITIES EXACTLY AS THE FOLLOWING STRINGS AS THE INPUT IS CASE SENSITIVE.
+**RECOMMENDED** -> Directly run "python matrix.py" to start directly with the stored data in the files "results" and "resultsoftrain"
 
-				"Hyderabad","Itanagar","Dispur","Patna","Raipur","Panaji","Gandhinagar","Chandigarh","Shimla","Srinagar","Ranchi","Bangalore",
-				"Thiruvananthapuram","Bhopal","Mumbai","Imphal","Shillong","Aizawl","Kohima","Bhubaneshwar","Jaipur","Gangtok","Chennai",
-				"Agartala","Lucknow","Dehradun","Kolkata","Daman and Diu","Delhi","Pondicherry"
+    INPUT THE CITIES EXACTLY AS THE FOLLOWING STRINGS AS THE INPUT IS CASE SENSITIVE.
 
+            "Hyderabad","Itanagar","Dispur","Patna","Raipur","Panaji","Gandhinagar","Chandigarh","Shimla","Srinagar","Ranchi","Bangalore",
+            "Thiruvananthapuram","Bhopal","Mumbai","Imphal","Shillong","Aizawl","Kohima","Bhubaneshwar","Jaipur","Gangtok","Chennai",
+            "Agartala","Lucknow","Dehradun","Kolkata","Daman and Diu","Delhi","Pondicherry"
 
-Or 
+Or
 
-***TIME CONSUMING*** -> Follow the following steps by running "python main.py" to actually download the data via Google Maps API 
+**TIME CONSUMING** -> Follow the following steps by running "python main.py" to actually download the data via Google Maps API
 
 python India.py
 
@@ -26,7 +36,5 @@ python parsing_train.py
 
 python matrix.py
 
+**RUN "python genetic.py"** to check a genetic algorithm implementation for TSP
 
-
-
-***RUN*** "python genetic.py" to check a genetic algorithm implementation for  TSP
