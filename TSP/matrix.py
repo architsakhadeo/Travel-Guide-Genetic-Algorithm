@@ -78,15 +78,17 @@ while True:
 		
 		no = raw_input("Enter a place: ")
 		
-		if no in b:
-			print "Already entered"
-		
 		for i in xrange(len(capital)):
 			
 			if type(re.match(no,capital[i],re.IGNORECASE)) is types.NoneType:
 				flag = 1
 				pass
 			else:
+				if i in b:
+					print "Already entered"
+					flag = 0
+					break
+				
 				b.append(i)
 				counter += 1
 				flag = 0
