@@ -1,4 +1,6 @@
 import webbrowser
+import types
+import re
 
 time_matrix = [[] for i in range(30)]
 mode_matrix =  [[] for i in range(30)]
@@ -68,23 +70,32 @@ while True:
 			print "Enter a city"
 		else:
 			print "Wrong place, enter right spelling again"
-	value = True
+	
 	b = []
 	print "Enter at least 2 places and at most 10 cities"
 	counter = 0
-	while value:
-		if counter >= 9:
-			break
+	while counter < 9:
+		
 		no = raw_input("Enter a place: ")
+		
 		if no in b:
 			print "Already entered"
-		if no in capital:
-			b.append(capital.index(no))
-			counter += 1
-		elif no == '':
-			value = False
-		else:
+		
+		for i in xrange(len(capital)):
+			
+			if type(re.match(no,capital[i],re.IGNORECASE)) is types.NoneType:
+				flag = 1
+				pass
+			else:
+				b.append(i)
+				counter += 1
+				flag = 0
+				break
+	
+		if flag:
 			print "Wrong place, enter right spelling again"
+	
+	
 	days = int(raw_input("Total number of days of stay: "))
 	'''b = []
 	for i in capital:
