@@ -13,7 +13,7 @@ for p in range(29):
 	for q in range(p+1,30):
 		origin = capitals[p]
 		destination = capitals[q]
-		url = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=' + origin + '&destinations=' + destination + '&key=ADDYOUROWNAPIKEY' #for roadways
+		url = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=' + origin + '&destinations=' + destination + '&key=YOUR_OWN_API_KEY' #for roadways
 		output = urlopen(url).read()
 		result.write(output)
 		result.write('\n\n\n\n\n\n\n')

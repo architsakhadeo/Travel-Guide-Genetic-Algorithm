@@ -14,7 +14,7 @@ for p in range(29):
 	for q in range(p+1,30):
 		origin = capitals[p]
 		destination = capitals[q]
-		url1 = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=' + origin + '&destinations=' + destination + '&mode=transit&transit_mode=train' + '&key=AIzaSyAPdDbRIHEqxJat3JM2roEUe5NxUkBxc-Q' #for railways
+		url1 = 'https://maps.googleapis.com/maps/api/distancematrix/json?units=imperial&origins=' + origin + '&destinations=' + destination + '&mode=transit&transit_mode=train' + '&key=YOUR_OWN_API_KEY' #for railways
 		output1 = urlopen(url1).read()
 		result1.write(output1)
 		result1.write('\n\n\n\n\n\n\n')
