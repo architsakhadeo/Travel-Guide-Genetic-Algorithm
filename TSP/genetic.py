@@ -205,8 +205,8 @@ print "After crossover and mutation"
 #WE PERFORM CROSSOVER IN THIS ITERATION ALONG WITH NESTED MUTATION
 
 #CROSSOVER
-	#parent1 = 12345678 
-	#parent2 = 85213647 
+	#parent1 = 12345678       12345678
+	#parent2 = 85213647       85213647
 
 	#child 1 = 15243678 
 	#child 2 = 84756321
