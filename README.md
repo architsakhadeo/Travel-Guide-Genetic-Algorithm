@@ -11,7 +11,7 @@
 5)It outputs a map in the browser which gives an idea of how the route will look like approximately. "Approximately" because Google Maps API doesn't allow to plot the roadways and railway paths on the same map. Hence only the roadways are plotted even where actually a railway path would be used. The map merely gives the user an idea of how the whole travel plan might be like. 
 
 
-**RECOMMENDED** -> Directly run "python matrix.py" to start directly with the stored data in the files "results" and "resultsoftrain"
+A) **RECOMMENDED** -> Directly run "python matrix.py" to start directly with the stored data in the files "results" and "resultsoftrain"
 
     INPUT THE CITIES EXACTLY AS THE FOLLOWING STRINGS AS THE INPUT IS CASE SENSITIVE.
 
@@ -21,7 +21,7 @@
 
 Or
 
-**TIME CONSUMING** -> Follow the following steps by running "python main.py" to actually download the data via Google Maps API
+A) **TIME CONSUMING** -> Follow the following steps by running "python main.py" to actually download the data via Google Maps API
 
 python India.py
 
@@ -37,5 +37,6 @@ python parsing_train.py
 
 python matrix.py
 
-**RUN "python genetic.py"** to check a genetic algorithm implementation for TSP
+--------------------------------------------------------------------
 
+B) **RUN "python genetic.py"** to check a genetic algorithm implementation for TSP
