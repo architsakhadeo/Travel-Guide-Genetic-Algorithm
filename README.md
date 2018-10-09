@@ -21,7 +21,7 @@ A) **RECOMMENDED** -> Directly run "python matrix.py" to start directly with the
 
 Or
 
-A) **TIME CONSUMING** -> Follow the following steps by running "python main.py" to actually download the data via Google Maps API
+A) **TIME CONSUMING** -> Follow the following steps by running "python main.py" to actually download the data via Google Maps API. Also get your own API Key for downloading the content. Add that API Key in "India.py" and "India_train.py" files.
 
 python India.py
 
