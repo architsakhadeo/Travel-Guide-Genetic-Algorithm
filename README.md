@@ -1,4 +1,4 @@
-**->What the existing code does is:**
+## What the existing code does
 
 1)It accepts the origin city. This city is where the travelling must start and end.
 
@@ -11,7 +11,7 @@
 5)It outputs a map in the browser which gives an idea of how the route will look like approximately. "Approximately" because Google Maps API doesn't allow to plot the roadways and railway paths on the same map. Hence only the roadways are plotted even where actually a railway path would be used. The map merely gives the user an idea of how the whole travel plan might be like. 
 
 
-A) **RECOMMENDED** -> Directly run "python matrix.py" to start directly with the stored data in the files "results" and "resultsoftrain"
+A) **RECOMMENDED** -> Directly run `python matrix.py` to start directly with the stored data in the files "results" and "resultsoftrain"
 
     INPUT THE CITIES EXACTLY AS THE FOLLOWING STRINGS AS THE INPUT IS CASE SENSITIVE.
 
@@ -23,20 +23,20 @@ Or
 
 A) **TIME CONSUMING** -> Follow the following steps by running "python main.py" to actually download the data via Google Maps API. Also get your own API Key for downloading the content. Add that API Key in "India.py" and "India_train.py" files.
 
-python India.py
+`python India.py`
 
-python India_train.py
+`python India_train.py`
 
-python distanceVStime.py
+`python distanceVStime.py`
 
-python distanceVStime_train.py
+`python distanceVStime_train.py`
 
-python parsing.py
+`python parsing.py`
 
-python parsing_train.py
+`python parsing_train.py`
 
-python matrix.py
+`python matrix.py`
 
 --------------------------------------------------------------------
 
-B) **RUN "python genetic.py"** to check a genetic algorithm implementation for TSP
+B) **RUN `python genetic.py`** to check a genetic algorithm implementation for TSP
