@@ -1,4 +1,4 @@
-## What the existing code does
+## What the code does
 
 1)It accepts the origin city. This city is where the travelling must start and end.
 
